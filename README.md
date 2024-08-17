@@ -23,10 +23,10 @@ Clone this repository to your local machine using the following command:
 
 It's recommended to create a virtual environment to manage dependencies
 
-### Navigate to the project directory
+#### Navigate to the project directory
 `cd <repository-folder>`
 
-### Create a virtual environment
+#### Create a virtual environment
 `python -m venv venv`
 
 ## Activate the virtual environment
