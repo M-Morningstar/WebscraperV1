@@ -54,6 +54,8 @@ You can run the scraper by executing the main script within the src folder:
 
 `python main.py`
 
+The user enters the IDs of the products to be scraped and the countries can be edited in the 'countires.csv' file
+
 Follow the prompts to enter product IDs
 
 ### Notes
