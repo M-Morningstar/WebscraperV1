@@ -30,10 +30,10 @@ It's recommended to create a virtual environment to manage dependencies
 `python -m venv venv`
 
 # Activate the virtual environment
-# On Windows
+### On Windows
 `venv\Scripts\activate`
 
-# On macOS/Linux
+### On macOS/Linux
 `source venv/bin/activate`
 
 ### Step 3: Install Dependencies
